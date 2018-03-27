@@ -4,3 +4,5 @@ BinaryPatching/find_secret_patch
 ShellMeUp/notes.txt
 ShellMeUp/expl0it_m3.c
 ShellMeUp/strings
+ROPdis/main.c
+ROPdis/exploit.py
